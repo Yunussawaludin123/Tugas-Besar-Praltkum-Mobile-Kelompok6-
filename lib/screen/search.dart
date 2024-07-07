@@ -38,7 +38,7 @@ class _SearchState extends State<Search> {
                   child: TextField(
                     decoration: InputDecoration(
                       border: InputBorder.none,
-                      hintText: 'Search your recipe',
+                      hintText: 'Pencarian Resep',
                       icon: Icon(Icons.search),
                     ),
                   ),

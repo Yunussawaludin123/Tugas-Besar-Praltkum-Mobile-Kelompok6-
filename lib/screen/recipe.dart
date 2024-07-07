@@ -172,7 +172,7 @@ class Recipe extends StatelessWidget {
                 child: Row(
                   children: [
                     Text(
-                      'ingredients',
+                      'Bahan-bahan',
                       style: TextStyle(
                         fontSize: 20,
                         color: font,
@@ -237,7 +237,7 @@ class Recipe extends StatelessWidget {
                 child: Row(
                   children: [
                     Text(
-                      'Recipe',
+                      'Resep',
                       style: TextStyle(
                         fontSize: 20,
                         color: font,
@@ -251,7 +251,7 @@ class Recipe extends StatelessWidget {
                 padding:
                     const EdgeInsets.symmetric(horizontal: 15, vertical: 15),
                 child: Text(
-                  "“Bloom” the yeast by sprinkling the sugar and yeast in the warm water. Let sit for 10 minutes, until bubbles form on the surface.In a large bowl, combine the flour and salt. Make a well in the middle and add the olive oil and bloomed yeast mixture. Using a spoon, mix until a shaggy dough begins to form.Once the flour is mostly hydrated, turn the dough out onto a clean work surface and knead for 10-15 minutes. The dough should be soft, smooth, and bouncy. Form the dough into a taut round.Grease a clean, large bowl with olive oil and place the dough inside, turning to coat with the oil. Cover with plastic wrap. Let rise for at least an hour, or up to 24 hours.Punch down the dough and turn it out onto a lightly floured work surface. Knead for another minute or so, then cut into 4 equal portions and shape into rounds.Lightly flour the dough, then cover with a kitchen towel and let rest for another 30 minutes to an hour while you prepare the sauce and any other ingredients.Preheat the oven as high as your oven will allow, between 450-500˚F (230-260˚C). Place a pizza stone, heavy baking sheet (turn upside down so the surface is flat), or cast iron skillet in the oven.Meanwhile, make the tomato sauce: Add the salt to the can of tomatoes and puree with an immersion blender, or transfer to a blender or food processor, and puree until smooth.Once the dough has rested, take a portion and start by poking the surface with your fingertips, until bubbles form and do not deflate.Then, stretch and press the dough into a thin round. Make it thinner than you think it should be, as it will slightly shrink and puff up during baking.Sprinkle semolina onto an upside down baking sheet and place the stretched crust onto it. Add the sauce and ingredients of your choice.Slide the pizza onto the preheated pizza stone or pan. Bake for 15 minutes, or until the crust and cheese are golden brown.Add any garnish of your preference.Nutrition Calories: 1691 Fat: 65 grams Carbs: 211 grams Fiber: 12 grams Sugars: 60 grams Protein: 65 gramsEnjoy!",
+                  "“Kembangkan” ragi dengan menaburkan gula dan ragi ke dalam air hangat. Diamkan selama 10 menit, hingga terbentuk gelembung di permukaan. Dalam mangkuk besar, campurkan tepung dan garam. Buat lubang di tengahnya dan tambahkan minyak zaitun dan campuran ragi yang sudah mekar. Dengan menggunakan sendok, aduk hingga adonan kasar mulai terbentuk. Setelah sebagian besar tepung terhidrasi, balikkan adonan ke permukaan kerja yang bersih dan uleni selama 10-15 menit. Adonannya harus lembut, halus, dan kenyal. Bentuk adonan menjadi bulat kencang. Olesi mangkuk besar yang bersih dengan minyak zaitun dan masukkan adonan ke dalamnya, balikkan hingga terlapisi minyak. Tutupi dengan bungkus plastik. Diamkan setidaknya selama satu jam, atau hingga 24 jam. Kempiskan adonan dan balikkan ke permukaan kerja yang diberi sedikit tepung. Uleni sekitar satu menit lagi, lalu potong menjadi 4 bagian yang sama dan bentuk bulat. Beri sedikit tepung pada adonan, lalu tutup dengan handuk dapur dan diamkan selama 30 menit hingga satu jam sambil menyiapkan saus dan bahan lainnya. Panaskan terlebih dahulu oven setinggi yang dimungkinkan oleh oven Anda, antara 450-500˚F (230-260˚C). Masukkan batu pizza, loyang tebal (balikkan agar permukaannya rata), atau wajan besi ke dalam oven. Sementara itu, buat saus tomat: Tambahkan garam ke dalam kaleng tomat dan haluskan dengan blender imersi, atau pindahkan ke dalam blender atau food processor, lalu haluskan hingga halus. Setelah adonan diistirahatkan, ambil sebagian dan mulailah dengan menusuk-nusuk permukaannya dengan ujung jari, hingga terbentuk gelembung-gelembung dan tidak mengempis. Kemudian, regangkan dan tekan adonan hingga tipis-tipis. bulat. Buatlah lebih tipis dari yang Anda kira, karena akan sedikit menyusut dan menggembung saat dipanggang. Taburkan semolina ke atas loyang terbalik dan letakkan kulit yang sudah diregangkan di atasnya. Tambahkan saus dan bahan pilihan Anda. Geser pizza ke atas batu atau wajan pizza yang sudah dipanaskan sebelumnya. Panggang selama 15 menit, atau sampai kulit dan keju berwarna coklat keemasan. Tambahkan hiasan apa pun sesuai selera. Kalori Nutrisi: 1691 Lemak: 65 gram Karbohidrat: 211 gram Serat: 12 gram Gula: 60 gram Protein: 65 gram Selamat menikmati!",
                   style: TextStyle(
                     fontSize: 18,
                     color: font,

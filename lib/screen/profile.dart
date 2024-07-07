@@ -14,12 +14,12 @@ class Profil extends StatelessWidget {
     Icon(Icons.login, color: maincolor),
   ];
   List titls = [
-    'Perconal data',
-    'Settings',
+    'Data pribadi',
+    'Pengaturan',
     'E-Statement',
-    'Refferal Code',
-    'FAQs',
-    'Logout'
+    'Kode Referensi',
+    'FAQ',
+    'Keluar'
   ];
   Widget build(BuildContext context) {
     return Scaffold(
@@ -40,7 +40,7 @@ class Profil extends StatelessWidget {
                   padding: const EdgeInsets.all(4.0),
                   child: CircleAvatar(
                     radius: 50,
-                    backgroundImage: AssetImage('images/p3.jpg'),
+                    backgroundImage: AssetImage('images/ridhoo.jpg'),
                   ),
                 ),
               ),
@@ -48,7 +48,7 @@ class Profil extends StatelessWidget {
           ),
           SizedBox(height: 10),
           Text(
-            'Charlotte',
+            'Ridho',
             style: TextStyle(fontSize: 18, color: font, fontFamily: 'ro'),
           ),
           Padding(

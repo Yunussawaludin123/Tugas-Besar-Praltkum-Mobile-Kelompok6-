@@ -31,7 +31,7 @@ class _HomeState extends State<Home> {
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 15),
               child: Text(
-                'Popular catehory',
+                'Kategori Populer',
                 style: TextStyle(
                   fontSize: 20,
                   color: font,
@@ -106,7 +106,7 @@ class _HomeState extends State<Home> {
                   Row(
                     children: [
                       Text(
-                        'Popular',
+                        'Populer',
                         style: TextStyle(
                           fontSize: 20,
                           color: font,
